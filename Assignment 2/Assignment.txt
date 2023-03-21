@@ -1,0 +1,14 @@
+Q6.Output->As no arg constructor is invoked
+b.there is no default constructor at class A
+
+
+Q7.
+this radius=radius;
+return getRadius()*getRadius*Math.PI;
+public B
+Super(radius)
+this.length=length;
+
+Q8.method is overriden
+Q9. yes, it must have the same return type;
+
